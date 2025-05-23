@@ -1,7 +1,6 @@
+_This is just an outline of the original article by Dan Ingalls. [A scan of the orginal article](https://archive.org/details/byte-magazine-1981-08/page/n299) is available at The Internet Archive. There is also an [HTML version](https://www.cs.virginia.edu/~evans/cs655/readings/smalltalk.html) with graphics recreated by Dwight Hughes._
 
-# Design Principles Behind Smalltalk
-
-*by Dan Ingalls*
+# Outline of Design Principles Behind Smalltalk
 
 ### Personal Mastery
 If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual.
@@ -53,6 +52,3 @@ An operating system is a collection of things that don't fit into a language. Th
 
 ### Natural Selection
 Languages and systems that are of sound design will persist, to be supplanted only by better ones.
-
-
-			--- E O F ---			
