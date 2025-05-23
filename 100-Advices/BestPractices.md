@@ -53,3 +53,5 @@ The reasoning for this is because:
    object can decide of how it handles this based on expectation.
    `#respondsTo:` is reserved more for testing if an object can handle
    a specific message.
+
+**In any case, asking these kinds of questions is a sign of poor design. If possible, avoid the question altogether, using for example, double dispatching.**
